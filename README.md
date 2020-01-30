@@ -1,6 +1,6 @@
 # Ticket-Booking System
 
-Create a system that allows users to book a seat in a movie theatre - no authentication required
+System that allows users to book a seat in a movie theatre - no authentication required
 Display all the seats in the theater and allow users to book it by clicking it. Only one user should be allowed to reserved a specific seat.If another user clicks a seat that was booked.
 
 ## Installation
